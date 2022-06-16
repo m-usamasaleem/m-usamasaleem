@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**m-usamasaleem/m-usamasaleem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Graduate Computer Science student at University of North Carolina.
+<!-- 
+💻 Passionate about Software Engineering, Machine Learning, Security and Privacy. Also interested in Open Source work.
 
-Here are some ideas to get you started:
+🔬 My research interests include Machine Learning and Privacy, Internet Measurements and . -->
+<!-- 
+🔭 I’m currently working on Federated Learning. -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 👨🏻‍💻 Technologies:
+
+<img src="https://raw.githubusercontent.com/MNoumanAbbasi/MNoumanAbbasi/master/assets/techs.png" alt="Technologies" width="400">
+
+⚡ When I am not in front of my laptop programming, I enjoy painting 🎨 and playing table tennis 🏓.
+
+### Get in touch!
+
+📧 Email: [usama.saleem7477@gmail.com](mailto:usama.saleem7477@gmail.com)  
+👨🏻‍💼 LinkedIn: [m-usamasaleem](https://www.linkedin.com/in/muhammad-usama-saleem-504b65164/)
+
