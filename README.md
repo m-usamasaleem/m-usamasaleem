@@ -13,7 +13,7 @@ I'm a Graduate Computer Science student at University of North Carolina.
 
 <img src="https://raw.githubusercontent.com/MNoumanAbbasi/MNoumanAbbasi/master/assets/techs.png" alt="Technologies" width="400">
 
-⚡ When I am not in front of my laptop programming, I enjoy painting 🎨 and playing table tennis 🏓.
+⚡ I like to play cricket, I enjoy cooking 🎨.
 
 ### Get in touch!
 
